@@ -8,8 +8,8 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1 style="color:blue;"> Hello, Friehds </h1>
-<h1 style="color:blue;">Hope youre enjoying the session.</h1>
+<h1 style="color:blue;">Hello People</h1>
+<h1 style="color:blue;">Please ask questions if you have any.!!!</h1>
 </body>
 </html>
 
