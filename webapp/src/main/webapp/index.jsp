@@ -9,8 +9,8 @@ div {text-align: center;}
 <body>
 
 <h1 style="color:blue;">Hello People</h1>
-<h1 style="color:blue;">Welocome to course.......</h1>
-<h1 style="color:blue;"> I hope youre enjoging it.</h1>
+<h1 style="color:blue;">Hello World!!</h1>
+<h1 style="color:blue;">What's up</h1>
 </body>
 </html>
 
