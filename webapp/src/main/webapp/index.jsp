@@ -10,7 +10,6 @@ div {text-align: center;}
 
 <h1 style="color:blue;">Hello People</h1>
 <h1 style="color:blue;">Hello World!!</h1>
-<h1 style="color:blue;">Hope your fine. up</h1>
 </body>
 </html>
 
