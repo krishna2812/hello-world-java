@@ -1,16 +1,9 @@
+<!DOCTYPE html>
 <html>
-<head>
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
-</head>
-<body>
+<body style="background-color:powderblue;">
 
-<h1 style="color:blue;">Hello People</h1>
-<h1 style="color:blue;">Hello World!! Hope youre fineeee.</h1>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
 </body>
 </html>
-
-
